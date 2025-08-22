@@ -1,6 +1,6 @@
-module github.com/willthrom/outlook-msg-parser
+module github.com/Preciselyco/outlook-msg-parser
 
-go 1.22.4
+go 1.24
 
 require (
 	github.com/richardlehane/mscfb v1.0.4
